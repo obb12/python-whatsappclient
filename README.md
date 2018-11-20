@@ -1,9 +1,9 @@
-#install requirement
+# install requirement
 python 2.x
 pip
 make
 
-#installation
+# installation
 run make setup
 and then make install it will install it
 
